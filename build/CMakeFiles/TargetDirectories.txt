@@ -1,0 +1,3 @@
+/home/pi/Desktop/pmm_pipelining_cpp/pmm_pipelining_min/PhaseBasedMotionMagification/build/CMakeFiles/rebuild_cache.dir
+/home/pi/Desktop/pmm_pipelining_cpp/pmm_pipelining_min/PhaseBasedMotionMagification/build/CMakeFiles/edit_cache.dir
+/home/pi/Desktop/pmm_pipelining_cpp/pmm_pipelining_min/PhaseBasedMotionMagification/build/CMakeFiles/PhaseBasedMotionMagnification.dir

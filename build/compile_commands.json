@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/home/pi/Desktop/pmm_pipelining_cpp/pmm_pipelining_min/PhaseBasedMotionMagification/build",
+  "command": "/usr/bin/g++  -I/include -isystem /usr/include/opencv4 -g -fopenmp -std=gnu++17 -o CMakeFiles/PhaseBasedMotionMagnification.dir/main.cc.o -c /home/pi/Desktop/pmm_pipelining_cpp/pmm_pipelining_min/PhaseBasedMotionMagification/main.cc",
+  "file": "/home/pi/Desktop/pmm_pipelining_cpp/pmm_pipelining_min/PhaseBasedMotionMagification/main.cc"
+},
+{
+  "directory": "/home/pi/Desktop/pmm_pipelining_cpp/pmm_pipelining_min/PhaseBasedMotionMagification/build",
+  "command": "/usr/bin/g++  -I/include -isystem /usr/include/opencv4 -g -fopenmp -std=gnu++17 -o CMakeFiles/PhaseBasedMotionMagnification.dir/storage_manager.cc.o -c /home/pi/Desktop/pmm_pipelining_cpp/pmm_pipelining_min/PhaseBasedMotionMagification/storage_manager.cc",
+  "file": "/home/pi/Desktop/pmm_pipelining_cpp/pmm_pipelining_min/PhaseBasedMotionMagification/storage_manager.cc"
+},
+{
+  "directory": "/home/pi/Desktop/pmm_pipelining_cpp/pmm_pipelining_min/PhaseBasedMotionMagification/build",
+  "command": "/usr/bin/g++  -I/include -isystem /usr/include/opencv4 -g -fopenmp -std=gnu++17 -o CMakeFiles/PhaseBasedMotionMagnification.dir/calculate_process.cc.o -c /home/pi/Desktop/pmm_pipelining_cpp/pmm_pipelining_min/PhaseBasedMotionMagification/calculate_process.cc",
+  "file": "/home/pi/Desktop/pmm_pipelining_cpp/pmm_pipelining_min/PhaseBasedMotionMagification/calculate_process.cc"
+},
+{
+  "directory": "/home/pi/Desktop/pmm_pipelining_cpp/pmm_pipelining_min/PhaseBasedMotionMagification/build",
+  "command": "/usr/bin/g++  -I/include -isystem /usr/include/opencv4 -g -fopenmp -std=gnu++17 -o CMakeFiles/PhaseBasedMotionMagnification.dir/complex_steerable_pyramid.cc.o -c /home/pi/Desktop/pmm_pipelining_cpp/pmm_pipelining_min/PhaseBasedMotionMagification/complex_steerable_pyramid.cc",
+  "file": "/home/pi/Desktop/pmm_pipelining_cpp/pmm_pipelining_min/PhaseBasedMotionMagification/complex_steerable_pyramid.cc"
+},
+{
+  "directory": "/home/pi/Desktop/pmm_pipelining_cpp/pmm_pipelining_min/PhaseBasedMotionMagification/build",
+  "command": "/usr/bin/g++  -I/include -isystem /usr/include/opencv4 -g -fopenmp -std=gnu++17 -o CMakeFiles/PhaseBasedMotionMagnification.dir/logging_manager.cc.o -c /home/pi/Desktop/pmm_pipelining_cpp/pmm_pipelining_min/PhaseBasedMotionMagification/logging_manager.cc",
+  "file": "/home/pi/Desktop/pmm_pipelining_cpp/pmm_pipelining_min/PhaseBasedMotionMagification/logging_manager.cc"
+},
+{
+  "directory": "/home/pi/Desktop/pmm_pipelining_cpp/pmm_pipelining_min/PhaseBasedMotionMagification/build",
+  "command": "/usr/bin/g++  -I/include -isystem /usr/include/opencv4 -g -fopenmp -std=gnu++17 -o CMakeFiles/PhaseBasedMotionMagnification.dir/firwin_manager.cc.o -c /home/pi/Desktop/pmm_pipelining_cpp/pmm_pipelining_min/PhaseBasedMotionMagification/firwin_manager.cc",
+  "file": "/home/pi/Desktop/pmm_pipelining_cpp/pmm_pipelining_min/PhaseBasedMotionMagification/firwin_manager.cc"
+},
+{
+  "directory": "/home/pi/Desktop/pmm_pipelining_cpp/pmm_pipelining_min/PhaseBasedMotionMagification/build",
+  "command": "/usr/bin/g++  -I/include -isystem /usr/include/opencv4 -g -fopenmp -std=gnu++17 -o CMakeFiles/PhaseBasedMotionMagnification.dir/streaming_manager.cc.o -c /home/pi/Desktop/pmm_pipelining_cpp/pmm_pipelining_min/PhaseBasedMotionMagification/streaming_manager.cc",
+  "file": "/home/pi/Desktop/pmm_pipelining_cpp/pmm_pipelining_min/PhaseBasedMotionMagification/streaming_manager.cc"
+}
+]

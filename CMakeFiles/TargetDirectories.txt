@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+/home/pi/Desktop/pmm_pipelining_cpp/pmm_pipelining_min/PhaseBasedMotionMagification/CMakeFiles/rebuild_cache.dir
+/home/pi/Desktop/pmm_pipelining_cpp/pmm_pipelining_min/PhaseBasedMotionMagification/CMakeFiles/edit_cache.dir
+/home/pi/Desktop/pmm_pipelining_cpp/pmm_pipelining_min/PhaseBasedMotionMagification/CMakeFiles/PhaseBasedMotionMagnification.dir
+=======
+/home/imbedded/Desktop/trigger_pbm/pmm_pipelining_min/PhaseBasedMotionMagification/CMakeFiles/PhaseBasedMotionMagnification.dir
+/home/imbedded/Desktop/trigger_pbm/pmm_pipelining_min/PhaseBasedMotionMagification/CMakeFiles/edit_cache.dir
+/home/imbedded/Desktop/trigger_pbm/pmm_pipelining_min/PhaseBasedMotionMagification/CMakeFiles/rebuild_cache.dir
+>>>>>>> 853558df90076385a81b1325c4a40e7d57e464c5
