@@ -1,0 +1,30 @@
+# Build artifacts
+CMakeFiles/
+cmake_install.cmake
+Makefile
+build/
+PhaseBasedMotionMagnification
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Compiled libraries
+*.dll
+*.so
+*.dylib
+
+# Executables
+*.exe
+*.out
+
+# Temporary files
+*.tmp
+*.temp
+
+# Log files
+*.log
